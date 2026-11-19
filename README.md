@@ -1,4 +1,4 @@
-# Clínica Vida Plena - Sistema de Gestión de Base de Datos
+# Clínica - Sistema de Gestión de Base de Datos
 
 Sistema integral de base de datos relacional en PostgreSQL diseñado para centralizar la gestión de citas médicas, expedientes clínicos, inventario farmacéutico por lotes, facturación con aseguradoras y auditoría de seguridad multi-sede.
 
