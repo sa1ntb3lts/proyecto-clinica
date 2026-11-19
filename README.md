@@ -11,7 +11,7 @@ Sistema integral de base de datos relacional en PostgreSQL diseñado para centra
 | **Martín Valente Vindiola Morales** | Volumetría, Índices y Rendimiento | `sql/02_datos.sql`, `sql/03_vistas_indices.sql`, `docs/rendimiento.md` |
 | **Uriel Nahum Santos Vazquez**      | Lógica de Negocio y Automatización | `sql/04_funciones_procedimientos.sql`, `sql/05_triggers.sql` |
 | **Cesar Uriel Aguiar Altamirano**   | Seguridad, Concurrencia y Respaldos | `sql/06_seguridad.sql`, `sql/08_transacciones.sql`, `docs/permisos.md`, `respaldo/clinica.dump` |
-| **Santiago Beltran Astorga **       | Consultas Analíticas e Integración | `sql/07_consultas.sql`, `ejecutar_todo.sql` |
+| **Santiago Beltran Astorga**        | Consultas Analíticas e Integración | `sql/07_consultas.sql`, `ejecutar_todo.sql` |
 
 ---
 
